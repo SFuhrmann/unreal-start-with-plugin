@@ -1,4 +1,6 @@
-# Unreal Plugin Launcher (Rust)
+<# Unreal Plugin Launcher (Rust)
+
+Small test project for coding assisted by Codex by OpenAI, it does what it should.
 
 Standalone, cross-platform GUI + CLI launcher for Unreal projects with per-user plugin overrides. It keeps `.uproject` files untouched by using Unreal's `-EnablePlugins` and `-DisablePlugins` flags.
 
@@ -41,5 +43,10 @@ unreal-plugin-launcher --associate
 - `src/association.rs`: file association helpers.
 - `src/lib.rs`: module wiring.
 
-Development tips:
+Development guidelines:
 - Any EngineAssociation logic must remain stable because it is the config key.
+
+## Ideas for the Future
+
+- Login and access/install owned plugins
+- 
