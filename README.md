@@ -1,4 +1,4 @@
-<# Unreal Plugin Launcher (Rust)
+# Unreal Plugin Launcher (Rust)
 
 Small test project for coding assisted by Codex by OpenAI, it does what it should.
 
