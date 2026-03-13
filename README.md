@@ -49,4 +49,4 @@ Development guidelines:
 ## Ideas for the Future
 
 - Login and access/install owned plugins
-- 
+- General Profile for all UE versions
